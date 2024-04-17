@@ -7,6 +7,7 @@ import reportWebVitals from './reportWebVitals';
 import TopHeader from './asset/component/topheader/TopHeader';
 import OurSeervice from './asset/component/ourservices/OurServices';
 import Chart from './asset/component/chart/Chart';
+import TotalWorks from './asset/component/TotalWorks/TotalWorks';
 
 
 
@@ -18,6 +19,7 @@ root.render(
     <TopHeader />
     <OurSeervice />
     <Chart />
+    <TotalWorks />
   </React.StrictMode>
 );
 

@@ -22,7 +22,7 @@ constructor(){
         var blue = "blue";
         return (
             <Fragment>
-                <Container>
+                <Container fluid className="chart-container">
                     <Row>
                         <Col lg={6} md={6} sm={12}>
 
